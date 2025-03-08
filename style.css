@@ -1,0 +1,15 @@
+html {
+  margin-top:300px;
+  background-image: url("assets/pngtree-march-8th-womens-day-floral-background-image_1035804.jpg"); /* Đường dẫn đến ảnh */
+  background-size: cover; /* Giữ nguyên tỷ lệ và lấp đầy toàn bộ màn hình */
+  background-repeat: no-repeat; /* Không lặp lại ảnh */
+  background-position: center; /* Canh giữa ảnh */
+}
+body {
+  /* Hides overflow on the x-axis and y-axis */
+  overflow: hidden;
+}
+.title{
+  margin-top: -200px
+
+}
